@@ -36,7 +36,7 @@ function loadmenu(data){
                   <b>${item.price}$</b>
               </div>
               <div class="menu-addcart">
-                  <button class="btn1" onclick="addToCart('${item.name}', '${item.price}','${item.imgSrc}')"><img src="/images/plus (1) 1.svg" alt=""></button>
+                  <button class="btn1" onclick="addToCart('${item.name}', '${item.price}','${item.imgSrc}')"><img src="./images/plus (1) 1.svg" alt=""></button>
               </div>
           </div>
           
