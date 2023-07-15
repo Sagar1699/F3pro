@@ -33,7 +33,7 @@ function loadmenu(data){
            
            <div class="item-price">
                <div class="price">${item.price}</div>
-               <button><img src="/images/plus (1) 1.svg" alt=""></button>
+               <button><img src="./images/plus (1) 1.svg" alt=""></button>
            </div>
         </div>
     </div>
